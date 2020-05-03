@@ -56,4 +56,4 @@ def finds_valid_calls(planeteer_calls)
 end
 
 prac = ['Earth!',"Wind!"]
-finds_valid_calls(prac)
+puts finds_valid_calls(prac)
